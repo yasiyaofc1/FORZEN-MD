@@ -38,7 +38,7 @@
     },
      "ALWAYS_ONLINE": {
     "description": "Bot Always Online",
-     "value": "true",
+     "value": "false",
      "required" :false
     },
   "LEVEL_UP_MESSAGE": {
